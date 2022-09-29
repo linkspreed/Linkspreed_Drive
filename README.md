@@ -1,6 +1,6 @@
 # <img align="left" alt="Analytix" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/))
 
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
+Linkspreed Drive 💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
 
 
 
@@ -52,7 +52,7 @@ Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for you
 
 ## More
  
-Analytix is **free**, **real-time** and with **unlimited** resources 
+Linkspreed Drive is **free**, **real-time** and with **unlimited** resources 
 for developers around the world.
 
 Our focus is on **usability** and **security** 
