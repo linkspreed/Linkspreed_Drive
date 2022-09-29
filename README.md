@@ -2,8 +2,8 @@
 
 Get 1 Petabyte of free cloud ☁️ storage on Linkspreed Drive 🧡
 
-## **[Changelog 🧡](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog 🧡](https://github.com/linkspreed/Linkspreed_Drive/blob/main/changelog.md)** **Check out the full Linkspreed Drive changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Linkspreed_Drive/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Linkspreed Drive besides development**
 
 
 <div align="center">
