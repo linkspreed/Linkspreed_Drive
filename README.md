@@ -52,17 +52,14 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 ## ðŸ“· UI
 
 
-### Privacy focused web analytics
+### Welcome to Linkspreed Drive
 <img align="center" alt="Linkspreed Drive" width="3000px" src="https://github.com/linkspreed/linkspreed_drive/blob/main/Screenshots/1.PNG" draggable="false" />
 
-### Analytics
+### Create your account
 <img align="center" alt="Linkspreed Drive" width="3000px" src="https://github.com/linkspreed/linkspreed_drive/blob/main/Screenshots/2.PNG" draggable="false" />
 
-### Register now
+### Dashboard
 <img align="center" alt="Linkspreed Drive" width="3000px" src="https://github.com/linkspreed/linkspreed_drive/blob/main/Screenshots/3.PNG" draggable="false" />
 
-### Dashboard
+### Settings
 <img align="center" alt="Linkspreed Drive" width="3000px" src="https://github.com/linkspreed/linkspreed_drive/blob/main/Screenshots/4.PNG" draggable="false" />
-
-### Add a new website
-<img align="center" alt="Linkspreed Drive" width="3000px" src="https://github.com/linkspreed/linkspreed_drive/blob/main/Screenshots/5.PNG" draggable="false" />
