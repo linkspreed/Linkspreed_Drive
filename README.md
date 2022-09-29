@@ -1,10 +1,8 @@
-# <img align="left" alt="Analytix" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/))
+# <img align="left" alt="Linkspreed Drive" width="40px" src="https://drive.linkspreed.com/client/favicon/icon-144x144.png" draggable="false" /> Linkspreed Drive ([Click to try 🚀](https://drive.linkspreed.com/))
 
-Linkspreed Drive 💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
+Get 1 Petabyte of free cloud ☁️ storage on Linkspreed Drive 🧡
 
-
-
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
+## **[Changelog 🧡](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
 
 
