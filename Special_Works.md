@@ -1,3 +1,6 @@
+### 23.10.2022 (announcement)
+- We will release a major update for this cloud in the coming weeks.
+
 # 02.10.2022
   - The new logo/icon is now online on Linkspreed Drive.
 
