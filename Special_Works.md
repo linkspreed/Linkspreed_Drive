@@ -1,4 +1,7 @@
 ### 22.12.2022 (announcement Linkspreed Drive)
+- **Linkspreed Drive** is now running on PHP 8.1.
+
+### 22.12.2022 (announcement Linkspreed Drive)
 - I'm happy to mention, that we're currently working now on **Linkspreed Drive**!
 
 ### 11.11.2022 (announcement Linkspreed Drive)
