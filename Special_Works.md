@@ -1,3 +1,6 @@
+### 22.12.2022 (announcement Linkspreed Drive)
+- I'm happy to mention, that we're currently working now on **Linkspreed Drive**!
+
 ### 11.11.2022 (announcement Linkspreed Drive)
 - The new update will be available soon!
 
