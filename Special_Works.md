@@ -1,4 +1,9 @@
 ### 23.12.2022 (announcement Linkspreed Drive)
+- The launch of version 3.0.8 of **Linkspreed Drive** was successful! 🥳
+- The new update is live now :)
+- https://drive.linkspreed.com 🔗
+
+### 23.12.2022 (announcement Linkspreed Drive)
 - We are now starting the launch of v3.0.8.
 
 ### 23.12.2022 (announcement Linkspreed Drive)
