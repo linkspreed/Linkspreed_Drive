@@ -1,4 +1,7 @@
 ### 23.12.2022 (announcement Linkspreed Drive)
+- We are now starting the launch of v3.0.8.
+
+### 23.12.2022 (announcement Linkspreed Drive)
 - The servers are now ready for the launch of version 3.0.8 for **Linkspreed Drive**.
 
 ### 23.12.2022 (announcement Linkspreed Drive)
