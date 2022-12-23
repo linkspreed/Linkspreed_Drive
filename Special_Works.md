@@ -1,3 +1,6 @@
+### 23.12.2022 (announcement Linkspreed Drive)
+-  **Linkspreed Drive** gets a big update today - we are going to launch v3.0.8. 😍
+
 ### 22.12.2022 (announcement Linkspreed Drive)
 - 1k TB on https://drive.linkspreed.com
 
