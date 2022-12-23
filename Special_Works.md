@@ -1,4 +1,8 @@
 ### 23.12.2022 (announcement Linkspreed Drive)
+- https://github.com/linkspreed/linkspreed_drive/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 23.12.2022 (announcement Linkspreed Drive)
 - The launch of version 3.0.8 of **Linkspreed Drive** was successful! 🥳
 - The new update is live now :)
 - https://drive.linkspreed.com 🔗
