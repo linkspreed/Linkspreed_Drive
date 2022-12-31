@@ -1,3 +1,6 @@
+### 31.12.2022 (announcement Linkspreed Drive)
+- We are currently working on adding our intelligent cloud **Linkspreed Drive** to the decentralized file storage network!
+
 ### 23.12.2022 (announcement Linkspreed Drive)
 - https://github.com/linkspreed/linkspreed_drive/blob/main/changelog.txt
 - The entire changelog is now available on Github.
