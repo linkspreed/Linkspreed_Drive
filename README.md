@@ -1,6 +1,8 @@
-# <img align="left" alt="Linkspreed Drive" width="40px" src="https://user-images.githubusercontent.com/102324985/193468757-7388f05c-a778-4159-af0f-e57b7594f6d5.png" draggable="false" /> Linkspreed Drive ([Click to try 🚀](https://drive.linkspreed.com/))
+# <img align="left" alt="Linkspreed Drive" width="40px" src="https://user-images.githubusercontent.com/102324985/193468757-7388f05c-a778-4159-af0f-e57b7594f6d5.png" draggable="false" /> Linkspreed Drive ([Click to try 🚀](https://drive.linkspreed.com/)) - Decentralized (Web3) | (v3.0.8)
 
 Get 1 Petabyte of free cloud ☁️ storage on Linkspreed Drive 🧡
+
+## Now **Linkspreed Drive** is completely decentralized and runs on a global, decentralized network!
 
 ## **[Changelog 🧡](https://github.com/linkspreed/Linkspreed_Drive/blob/main/changelog.txt)** **Check out the full Linkspreed Drive changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Linkspreed_Drive/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Linkspreed Drive besides development**
