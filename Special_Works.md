@@ -1,3 +1,6 @@
+### 09.05.2023 (announcement Linkspreed Drive)
+- 🔗🚀Exciting news! We temporarily redirect Linkspreed Drive to our new Cloud ShareNode while we're designing a plan for it.👀 Have you tried our new ShareNode yet? Let us know your thoughts! #cloudstorage #LinkSpreedDrive #ShareNode #feedback
+
 ### 06.04.2023 (announcement Linkspreed Drive)
 - 📁🔗 Want to share files effortlessly? Look no further than #Linkspreed Drive v3.1.0! With enhanced security features, you can safely send and receive sensitive documents in a snap! 🔒📨
 
