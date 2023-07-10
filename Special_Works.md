@@ -1,3 +1,9 @@
+### 10.07.2023 (announcement [Clouds])
+- 🌩️📲 Ready to level up our cloud systems! We're kicking off the update to Version 3.1.1 today. 🚀 Excited to bring you enhanced features and improved performance! 🌟 Have you ever experienced a system update? Share your thoughts below! 👇 #CloudUpdate #TechTuesday
+
+### 10.07.2023 (announcement [Clouds])
+- 🔁 Exciting news! We have lifted the redirection from our cloud platforms to ShareNode. 🎉💻 Now you can enjoy uninterrupted access to all your favorite features. 🚀✨ Have you already explored ShareNode? Let us know your thoughts below! #CloudPlatform #ShareNode
+
 ### 09.05.2023 (announcement Linkspreed Drive)
 - 🔗🚀Exciting news! We temporarily redirect Linkspreed Drive to our new Cloud ShareNode while we're designing a plan for it.👀 Have you tried our new ShareNode yet? Let us know your thoughts! #cloudstorage #LinkSpreedDrive #ShareNode #feedback
 
